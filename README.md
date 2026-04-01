@@ -85,7 +85,7 @@ Below are complete interface screenshots from the Smart Document Analyzer applic
 ## 🚀 Installation
 
 1. **Download the Installer**  
-   Grab `SmartDocumentAnalyzer_Setup.exe` from the [Releases](https://github.com/prashanth-kumar-g/smart-document-analyzer/releases](https://github.com/prashanth-kumar-g/smart-document-analyzer/releases/tag/v1.0.0) page.
+   Grab `SmartDocumentAnalyzer_Setup.exe` from the [Releases](https://github.com/prashanth-kumar-g/smart-document-analyzer/releases/tag/v1.0.0/SmartDocumentAnalyzer_Setup.exe) page.
 
 2. **Run the Installer**  
    Double-click `SmartDocumentAnalyzer_Setup.exe` and follow the prompts. It installs the application, creates Desktop/Start Menu shortcuts, and requires no further setup.
