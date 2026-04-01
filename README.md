@@ -42,32 +42,23 @@
 
 ## ✨ Features
 
-- 📄 **Multi-Format Document Support**
-  - Analyze TXT, PDF, DOCX, XLSX, and PPTX files from a single interface
+- 📁 **Multi-Format Document Support**
+Supports TXT, PDF, DOCX, XLSX, and PPTX files using appropriate parsers for each format.
 
-- 📊 **12 Text Intelligence Metrics**
-  - Character Count, Word Count, Sentence Count, Paragraph Count
-  - Smallest Word, Longest Word, Unique Words, Most Repeated Word
-  - Avg Word Length, Avg Sentence Length, Avg Paragraph Length, Total Pages
-
-- 🖼️ **PDF Page Thumbnail Preview**
-  - Drop zone displays the first page of any PDF as a live thumbnail after upload
-  - Non-PDF files show a color-coded file type icon instead
+- 📊 **Comprehensive Text Analysis & Statistics**
+Calculates Character Count, Word Count, Sentence Count, Paragraph Count, Unique Words, Smallest Word, Longest Word, Most Repeated Word, Average Word Length, Average Sentence Length, Average Paragraph Length, and Total Pages.
 
 - 🖱️ **Drag & Drop Upload**
-  - Drag files directly onto the drop zone — no dialog required
+Allows easy document upload via drag-and-drop along with manual file browsing.
 
-- 🎨 **Modern FlatLaf UI**
-  - Clean white cards, deep navy header with indigo glow, and colorful accent metric tiles
-
-- 📏 **Fixed Two-Panel Layout**
-  - Custom ProportionalLayout enforces a strict 42/58 card split — cards never resize with content changes
+- 🖼️ **Thumbnail Preview**
+Displays a preview thumbnail of the selected document within the application.
 
 - 🔄 **Live Color-Coded Status Bar**
-  - Colored dot-prefixed messages for every user action — upload, analyze, clear, and exit
+Colored dot-prefixed messages for every user action - upload, analyze, clear, and exit.
 
-- 📦 **Seamless Deployment**
-  - One-click installer bundles the application and all dependencies
+- 🖥️ **Modern UI Design**
+Built using Java Swing with FlatLaf look and feel, featuring clean layout, color-coded metric cards, and an intuitive interface.
 
 ---
 
