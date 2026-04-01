@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-✨ **Smart Document Analyzer** is a polished Windows desktop application built with Java Swing and Maven to analyze documents and extract deep text intelligence in one click. It supports five document formats — TXT, PDF, DOCX, XLSX, and PPTX — and delivers 12 instant metrics covering vocabulary, structure, and readability. The modern FlatLaf-powered interface features a fixed two-panel layout with a drag-and-drop drop zone that previews PDF page thumbnails after upload, a live color-coded status bar, and a Document Intelligence card displaying all metrics side-by-side. Packaged as a one-click installer for effortless deployment, Smart Document Analyzer brings professional-grade document analysis straight to your desktop.
+✨ **Smart Document Analyzer** is a polished Windows desktop application built with Java Swing and Maven to analyze documents and extract deep text intelligence in one click. It supports five document formats - TXT, PDF, DOCX, XLSX, and PPTX. It delivers 12 instant metrics covering vocabulary, structure, and readability. The modern FlatLaf-powered interface features a fixed two-panel layout with a drag-and-drop drop zone that previews PDF page thumbnails after upload, a live color-coded status bar, and a Document Intelligence card displaying all metrics side-by-side. Packaged as a one-click installer for effortless deployment, Smart Document Analyzer brings professional-grade document analysis straight to your desktop.
 
 ---
 
