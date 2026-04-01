@@ -93,7 +93,7 @@ Below are complete interface screenshots from the Smart Document Analyzer applic
 3. **Launch the Application**  
    Open from your Desktop or Start Menu shortcut and start analyzing documents instantly.
 
-> 💡 Java 21 or higher is required to run the application. No additional configuration needed.
+> 💡 No additional frameworks or manual configuration required.
 
 ---
 
