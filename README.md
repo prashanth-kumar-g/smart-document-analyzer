@@ -10,7 +10,7 @@
 - [Features](#-features)  
 - [Screenshots](#%EF%B8%8F-screenshots)  
 - [Installation](#-installation)  
-- [Developer Notes](#-developer-notes)  
+- [Developer Notes](#%E2%80%8D-developer-notes)  
 - [Contributing](#-contributing)  
 - [License](#-license)  
 - [Copyright](#%EF%B8%8F-copyright)
