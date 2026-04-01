@@ -77,13 +77,13 @@ Below are complete interface screenshots from the Smart Document Analyzer applic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/REPLACE_WITH_SCREENSHOT_1" width="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef3acf88-11f9-47a6-94d1-28e10c3031c6" width="700"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/REPLACE_WITH_SCREENSHOT_2" width="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/78579b6b-697d-443f-8f8e-afa3b7f42dd1" width="700"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/REPLACE_WITH_SCREENSHOT_3" width="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f46a8606-f1d7-4067-b515-f73d565b15d8" width="700"/></td>
   </tr>
 </table>
 
