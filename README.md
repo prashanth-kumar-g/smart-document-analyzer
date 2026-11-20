@@ -136,7 +136,7 @@ You may use and modify this code for personal or educational purposes—see `LIC
 
 ## ©️ Copyright
 
-© 2025 Prashanth Kumar G. All rights reserved.  
+© 2026 Prashanth Kumar G. All rights reserved.  
 Unauthorized commercial use or redistribution is prohibited without prior written consent.
 
 ---
